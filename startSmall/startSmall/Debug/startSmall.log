@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(33): warning C4018: '>': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(148): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(149): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(190): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(191): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(217): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(218): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(250): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\jarin\documents\visual studio 2015\projects\startsmall\startsmall\main.cpp(288): warning C4305: '=': truncation from 'double' to 'float'
+  startSmall.vcxproj -> C:\Users\Jarin\Documents\Visual Studio 2015\Projects\startSmall\Debug\startSmall.exe
+  startSmall.vcxproj -> C:\Users\Jarin\Documents\Visual Studio 2015\Projects\startSmall\Debug\startSmall.pdb (Full PDB)
